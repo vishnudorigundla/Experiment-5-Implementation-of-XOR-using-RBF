@@ -30,7 +30,7 @@ The RBF of hidden neuron as gaussian function
 <img width="206" alt="image" src="https://user-images.githubusercontent.com/112920679/201302321-a09f72e9-2352-4f88-838c-3324f6c5f57e.png">
 
 
-## ALGORIHM:
+## ALGORITHM:
 1.Import the necessary libraries of python.
 
 2.In the end_to_end function, first calculate the similarity between the inputs and the peaks.
@@ -65,10 +65,11 @@ The RBF of hidden neuron as gaussian function
     
     * bias edge
     
-
-### Developed by:D.vishnu vardhan reddy
-### Registration no:212221230023
 ## PROGRAM:
+```
+Developed by:D.vishnu vardhan reddy
+Registration no:212221230023
+```
 ```
 import numpy as np
 import matplotlib.pyplot as plt
